@@ -61,5 +61,9 @@ URLs for improve weak areas
 - Three AWS Glue ETL job types for converting data to Apache Parquet https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/three-aws-glue-etl-job-types-for-converting-data-to-apache-parquet.html
 - How do I attach backend Amazon EC2 instances with private IP addresses to my internet-facing load balancer in ELB?
 https://repost.aws/knowledge-center/public-load-balancer-private-ec2
-- 
+- What is the difference between a multivalue answer routing policy and a simple routing policy?
+https://repost.aws/knowledge-center/multivalue-versus-simple-policies
+- What S3 bucket policy can I use to comply with the AWS Config rule s3-bucket-ssl-requests-only?
+https://repost.aws/knowledge-center/s3-bucket-policy-for-config-rule
+- AWS Kinesis Data Streams Deep Dive https://medium.com/@joudwawad/aws-kinesis-data-streams-deep-dive-e728ef9e1810
 
